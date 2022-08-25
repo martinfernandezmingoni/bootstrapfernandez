@@ -1,3 +1,7 @@
 .colorNav{
     background-color: rgb(252, 200, 236) !important;
 }
+
+.form{
+    display: flex !important;
+}
